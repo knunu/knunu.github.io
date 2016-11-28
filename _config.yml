@@ -11,9 +11,9 @@ url:                 http://qwtel.com
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
-baseurl:             /hydejack
+baseurl:             http://knunu.github.io
 
-title:               Hydejack
+title:               Knunu\'s Workspace
 
 # Pagination
 paginate:            5
