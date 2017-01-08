@@ -28,7 +28,7 @@ jekyll:
 
 life:
   name: Life
-  image: //public/img/hyde.jpg
+  image: /public/img/hyde.jpg
   color: '#949667'
   description: >
     Knunu's daily life
