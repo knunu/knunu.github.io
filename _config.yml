@@ -48,7 +48,7 @@ author:
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hi, I'm **Seonwoo Kim** or **Knunu**, which isn't a character of league of legend.<br />
+    Hi, I'm **Seonwoo Kim** or **Knunu**, which isn't a character of [league of legend](http://na.leagueoflegends.com/).<br />
     I just used **Knunu** as a nickname originated from my first name.
 
   # Social media icons in sidebar
