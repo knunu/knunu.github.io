@@ -26,7 +26,8 @@ Software Developer
 
 ## International activities
 
-* OSORI[Open Source Group in Hanyang Univ] - Head of Training department (2015.06 ~ 2017.02)
+* OSORI[Open Source Group in Hanyang Univ] (2015.06 ~ 2017.02)<br />
+Head of Training department
 * SCSC[Samsung Convergence Software Course] - Mentor (2016.03 ~ 2016.12)
 * LG U+ - Earlybird 3th (2016.01 ~ 2016.07)
 * Software Maestro - 7th (2016.07 ~ 2016.12)
