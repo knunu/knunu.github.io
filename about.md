@@ -13,16 +13,16 @@ title: About
 
 * [Pyeongtaek high school](http://www.pyeongtaek.hs.kr/smain.html) (2008.03 ~ 2011.02)
 * [Hanyang University](http://www.hanyang.ac.kr/) (2011.03 ~ 2017.02)<br />
- - Computer Science & Engineering, Bachelor's degree
+Computer Science & Engineering, Bachelor's degree
 
 ## Work experiences
 
 * [Republic Of Korea Air Force](http://www.airforce.mil.kr:8081/user/indexMain.action?siteId=airforce) (2013.02 ~ 2015.01)<br />
- - Intranet Maintenance, Base access control system Development
+Intranet Maintenance, Base access control system Development
 * [Platformstory](http://platformstory.com/) (2015.05 ~ 2016.06)<br />
- - Server & Database Design, Development, Maintenance
+Server & Database Design, Development, Maintenance
 * [Coupang](http://www.coupang.com/) (2017.01 ~)<br />
- - Software Developer
+Software Developer
 
 ## International activities
 
