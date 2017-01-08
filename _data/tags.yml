@@ -25,3 +25,18 @@ jekyll:
   color: '#949667'
   description: >
     Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.
+
+life:
+  name: Life
+  image: //public/img/hyde.jpg
+  color: '#949667'
+  description: >
+    Knunu's daily life
+
+programming:
+  name: Programming
+  image: /public/img/jekyll.jpg
+  color: '#949667'
+  description: >
+    All about programming that Knunu have interested in.
+
