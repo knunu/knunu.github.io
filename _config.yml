@@ -44,7 +44,7 @@ author:
 
   # This photo will be used in the about section
   photo:             https://knunu.github.io/public/img/realknunu.jpeg
-  photo2x:           https://knunu.github.io/public/img/realknunu@2x.jpeg
+#  photo2x:           https://knunu.github.io/public/img/realknunu@2x.jpeg
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
