@@ -9,8 +9,6 @@ title: About
 {% endcomment %}
 {% include about-short.html author=site.author %}
 
-------
-
 ## Academic abilities
 
 * [Pyeongtaek high school](http://www.pyeongtaek.hs.kr/smain.html) (2008.03 ~ 2011.02)
@@ -18,7 +16,7 @@ title: About
 
 ## Work experiences
 
-* [Republic Of Korea Air Force](http://www.airforce.mil.kr:8081/user/indexMain.action?siteId=airforce) - Intranet Maintenance, Base access control system Development (2013.02 ~ 2015.01)
+* [Republic Of Korea Air Force](http://www.airforce.mil.kr:8081/user/indexMain.action?siteId=airforce) - Intranet Maintenance, Base access control system Development <br />(2013.02 ~ 2015.01)
 * [Platformstory](http://platformstory.com/) - Server & Database Design, Development, Maintenance (2015.05 ~ 2016.06)
 * [Coupang](http://www.coupang.com/) - Software Developer (2017.01 ~)
 
