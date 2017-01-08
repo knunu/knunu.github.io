@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'hello world!'
-tags: [hyde]
+tags: [life, programming]
 description: >
   hello world!
 ---
