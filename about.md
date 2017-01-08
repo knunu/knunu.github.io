@@ -28,8 +28,8 @@ Software Developer
 
 * OSORI[Open Source Group in Hanyang Univ] (2015.06 ~ 2017.02)<br />
 Head of Training department
-* SCSC[Samsung Convergence Software Course] - Mentor (2016.03 ~ 2016.12)
 * LG U+ - Earlybird 3th (2016.01 ~ 2016.07)
+* SCSC[Samsung Convergence Software Course] - Mentor (2016.03 ~ 2016.12)
 * Software Maestro - 7th (2016.07 ~ 2016.12)
 * HY-SA Mentoring - Mentor (2016.10 ~ 2016.12)
 
