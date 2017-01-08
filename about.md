@@ -9,6 +9,8 @@ title: About
 {% endcomment %}
 {% include about-short.html author=site.author %}
 
+------
+
 ## Academic abilities
 
 * [Pyeongtaek high school](http://www.pyeongtaek.hs.kr/smain.html) (2008.03 ~ 2011.02)
@@ -20,7 +22,7 @@ title: About
 * [Platformstory](http://platformstory.com/) - Server & Database Design, Development, Maintenance (2015.05 ~ 2016.06)
 * [Coupang](http://www.coupang.com/) - Software Developer (2017.01 ~)
 
-## International Activities
+## International activities
 
 * OSORI[Open Source Group in Hanyang Univ] - Head of Training department (2015.06 ~ 2017.02)
 * SCSC[Samsung Convergence Software Course] - Mentor (2016.03 ~ 2016.12)
