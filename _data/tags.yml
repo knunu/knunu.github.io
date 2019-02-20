@@ -28,15 +28,10 @@ jekyll:
 
 life:
   name: Life
-  image: /public/img/hyde.jpg
-  color: '#949667'
   description: >
     Knunu's daily life
 
 programming:
   name: Programming
-  image: /public/img/jekyll.jpg
-  color: '#949667'
   description: >
-    All about programming that Knunu have interested in.
-
+    All about programming contents that Knunu has interested in.

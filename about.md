@@ -22,7 +22,7 @@ Intranet Maintenance, Base access control system Development
 * [Platformstory](http://platformstory.com/) (2015.05 ~ 2016.06)<br />
 Server & Database Design, Development, Maintenance
 * [Coupang](http://www.coupang.com/) (2017.01 ~)<br />
-Software Developer
+Software Developer in core framework (api gateway platform)
 
 ## International activities
 
@@ -35,13 +35,10 @@ Head of Training department
 
 ## Skills
 
-* PHP + Codeigniter
 * Python + Django
-* JSP
-* Java
-* C++
-* Swift
+* Java + Spring
+* Javascript + React
 
 ------
 
-### Created by Knunu, 2017. 1. 8.
+### Created by Knunu, 2019. 2. 21.
