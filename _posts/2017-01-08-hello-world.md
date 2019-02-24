@@ -1,9 +1,8 @@
 ---
 layout: post
-title: 'hello world!'
+title: ''
 tags: [life]
 description: >
-  hello world!
 ---
 
 # hello world!
